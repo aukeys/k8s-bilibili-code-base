@@ -8,13 +8,10 @@
 
 为了让大家能够更好的掌握 Kubernetes 及其相关生态，我打算做一系列的视频课程，本套视频是这个系列的第一部分--基础篇，接下来我还会做进阶篇。在基础篇中我将一步步引导你去实践如何部署一个测试目的的Kubernetes 集群；如何将微服务部署到 Kubernetes 集群上。在接下来的进阶篇中，我将带来你进入更高级的主题，包括如何搭建生产环境使用的高可用性 Kubernetes 集群；如何搭建企业级私有仓库；如何配置持续集成与部署（CI/CD）流水线；如何为 Kubernetes 配置持久化存储；如何配置 Kubernetes 网络；如何监控 Kubernetes 集群及其部署的微服务 等等。
 
-如果你对视频中讲解的知识有什么疑问，欢迎扫描下面二维码加入 QQ 群（774607973）进行提问，如果你对我们有什么建议，也欢迎加如QQ群，谢谢！
 
-![QQ群](https://github.com/findsec-cn/k101/raw/master/docs/qq.jpg)
 
 也可以关注我们的微信公众号：
 
-![微信公众号](https://github.com/findsec-cn/k101/raw/master/docs/wechat.jpg)
 
 ## 你会学到什么？
 
